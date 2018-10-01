@@ -1,0 +1,6 @@
+F:\MyProgramm\calculator\calculator\bin\Release\calculator.exe.config
+F:\MyProgramm\calculator\calculator\bin\Release\calculator.exe
+F:\MyProgramm\calculator\calculator\bin\Release\calculator.pdb
+F:\MyProgramm\calculator\calculator\obj\Release\calculator.csproj.CoreCompileInputs.cache
+F:\MyProgramm\calculator\calculator\obj\Release\calculator.exe
+F:\MyProgramm\calculator\calculator\obj\Release\calculator.pdb
